@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwilhelm&label=Profile%20views&color=0e75b6&style=flat" alt="imwilhelm" /> </p>
 
-- 🔭 I’m currently working on **Red hood**
-
-- 🌱 I’m currently learning **Godot engine**
-
 - 📫 How to reach me **Arad.rakhsha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
